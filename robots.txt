@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://biwanxu.github.io/mogushipinae/sitemap.xml
